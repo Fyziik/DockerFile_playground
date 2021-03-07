@@ -1,5 +1,6 @@
 import requests
 import os
+from barbar import Bar
 
 # fetch the html from a url
 req = requests.get('https://clbokea.github.io/exam/assignment_2.html')
